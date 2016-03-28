@@ -8,21 +8,21 @@ Time spent: *13** hours spent in total
 
 The following **required** functionality is completed:
 
-- [x ] Table rows for search results should be dynamic height according to the content height.
-- [ x] Custom cells should have the proper Auto Layout constraints.
-- [x ] Search bar should be in the navigation bar (doesn't have to expand to show location like the real Yelp app does).
+- [x] Table rows for search results should be dynamic height according to the content height.
+- [x] Custom cells should have the proper Auto Layout constraints.
+- [x] Search bar should be in the navigation bar (doesn't have to expand to show location like the real Yelp app does).
 
 The following **optional** features are implemented:
 
 - [ ] Search results page
    - [ ] Infinite scroll for restaurant results.
-   - [x ] Implement map view of restaurant results.
-- [x ] Implement the restaurant detail page.
+   - [ ] Implement map view of restaurant results.
+- [x] Implement the restaurant detail page.
 
 The following **additional** features are implemented:
 
-- [ x] List anything else that you can get done to improve the app functionality!
-customize navigation bar
+- [x] List anything else that you can get done to improve the app functionality!
+- [x] Customize navigation bar
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
 1. infinte scroll
@@ -32,7 +32,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/bK9FfzK.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://imgur.com/LT7BJcT.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
